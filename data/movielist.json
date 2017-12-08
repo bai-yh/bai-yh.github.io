@@ -3,7 +3,7 @@
   "name": "盗梦空间",
   "time": "2010",
   "director": "诺兰",
-  "src": require("./source/iron-man.mp4"),
+  "src": "https://last-bai.github.io/data/iron-man.mp4",
   "post": "https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike180%2C5%2C5%2C180%2C60/sign=09c9048c8144ebf8797c6c6db890bc4f/ac345982b2b7d0a26e5d3912cdef76094a369aac.jpg"
 
 }, {
@@ -11,7 +11,7 @@
   "name": "星际穿越",
   "time": "2014",
   "director": "诺兰",
-  "src": require("./source/iron-man.mp4"),
+  "src": "https://last-bai.github.io/data/iron-man.mp4",
   "post": "https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=0ea4d0229d2f07084b082252884dd3fc/55e736d12f2eb9381222b89fd6628535e5dd6f14.jpg"
 
 }, {
@@ -19,7 +19,7 @@
   "name": "致命魔术",
   "time": "2006",
   "director": "诺兰",
-  "src": require("./source/iron-man.mp4"),
+  "src": "https://last-bai.github.io/data/iron-man.mp4",
   "post": "https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike220%2C5%2C5%2C220%2C73/sign=cac24a2354e736d14c1e845afa3924a7/48540923dd54564ee094e0c6b3de9c82d0584f5f.jpg"
 
 }, {
@@ -27,7 +27,7 @@
   "name": "黑暗骑士",
   "time": "2008",
   "director": "诺兰",
-  "src": require("./source/iron-man.mp4"),
+  "src": "https://last-bai.github.io/data/iron-man.mp4",
   "post": "https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike180%2C5%2C5%2C180%2C60/sign=884c68cb1fd8bc3ed2050e98e3e2cd7b/d53f8794a4c27d1e36d6e6351dd5ad6edcc4384b.jpg"
 
 }, {
@@ -35,7 +35,7 @@
   "name": "黑暗骑士崛起",
   "time": "2012",
   "director": "诺兰",
-  "src": require("./source/iron-man.mp4"),
+  "src": "https://last-bai.github.io/data/iron-man.mp4",
   "post": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3870345411,2414792747&fm=27&gp=0.jpg"
 
 }, {
@@ -43,7 +43,7 @@
   "name": "侠影之谜",
   "time": "2005",
   "director": "诺兰",
-  "src": require("./source/iron-man.mp4"),
+  "src": "https://last-bai.github.io/data/iron-man.mp4",
   "post": "https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=1ad8916a59b5c9ea76fe0bb1b450dd65/71cf3bc79f3df8dcff4328f0cf11728b47102850.jpg"
 
 }, {
@@ -51,7 +51,7 @@
   "name": "记忆碎片",
   "time": "2014",
   "director": "诺兰",
-  "src": require("./source/iron-man.mp4"),
+  "src": "https://last-bai.github.io/data/iron-man.mp4",
   "post": "https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=d8d5ebaed72a6059461de948495d5ffe/94cad1c8a786c917f6e4555ec93d70cf3ac757f5.jpg"
 
 }, {
@@ -59,7 +59,7 @@
   "name": "白夜追凶",
   "time": "2002",
   "director": "诺兰",
-  "src": require("./source/iron-man.mp4"),
+  "src": "https://last-bai.github.io/data/iron-man.mp4",
   "post": "https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=2b0da84bda54564ef168ec6bd2b7f7e7/a8773912b31bb0519a402770317adab44aede006.jpg"
 
 }, {
@@ -67,7 +67,7 @@
   "name": "人工智能",
   "time": "2001",
   "director": "史蒂文-斯皮尔伯格",
-  "src": require("./source/iron-man.mp4"),
+  "src": "https://last-bai.github.io/data/iron-man.mp4",
   "post": "https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=c7913e0c0df3d7ca18fb37249376d56c/cdbf6c81800a19d8e38dfd3732fa828ba61e4671.jpg"
 
 }, {
@@ -75,7 +75,7 @@
   "name": "林肯",
   "time": "2012",
   "director": "史蒂文-斯皮尔伯格",
-  "src": require("./source/iron-man.mp4"),
+  "src": "https://last-bai.github.io/data/iron-man.mp4",
   "post": "https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=f69f2ac3a918972bb737089887a410ec/6a600c338744ebf83cc572e8dbf9d72a6159a7b4.jpg"
 
 }, {
@@ -83,7 +83,7 @@
   "name": "拯救大兵瑞恩",
   "time": "1998",
   "director": "史蒂文-斯皮尔伯格",
-  "src": require("./source/iron-man.mp4"),
+  "src": "https://last-bai.github.io/data/iron-man.mp4",
   "post": "https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike220%2C5%2C5%2C220%2C73/sign=d833ae5c5466d0166a14967af642bf62/eac4b74543a982262e1406b68c82b9014b90eb4e.jpg"
 
 }, {
@@ -91,7 +91,7 @@
   "name": "辛德勒的名单",
   "time": "1993",
   "director": "史蒂文-斯皮尔伯格",
-  "src": require("./source/iron-man.mp4"),
+  "src": "https://last-bai.github.io/data/iron-man.mp4",
   "post": "https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=cc91bc60e924b899ca31716a0f6f76f0/9a504fc2d56285350174444190ef76c6a7ef633e.jpg"
 
 }, {
@@ -99,7 +99,7 @@
   "name": "侏罗纪公园",
   "time": "1993",
   "director": "史蒂文-斯皮尔伯格",
-  "src": require("./source/iron-man.mp4"),
+  "src": "https://last-bai.github.io/data/iron-man.mp4",
   "post": "https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike180%2C5%2C5%2C180%2C60/sign=50b8e76f512c11dfcadcb771024e09b5/8644ebf81a4c510feb98c2966659252dd52aa5d9.jpg"
 
 }]
