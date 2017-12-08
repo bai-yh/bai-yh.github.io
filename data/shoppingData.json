@@ -1,0 +1,41 @@
+[{
+	"id":1,
+	"name":"天猫",
+	"address":"https://www.tmall.com/"
+},{
+	"id":2,
+	"name":"京东",
+	"address":"https://www.jd.com/"
+},{
+	"id":3,
+	"name":"淘宝",
+	"address":"https://www.taobao.com/"
+},{
+	"id":4,
+	"name":"聚美优品",
+	"address":"http://bj.jumei.com/"
+},{
+	"id":5,
+	"name":"苏宁易购",
+	"address":"https://www.suning.com/"
+},{
+	"id":6,
+	"name":"国美",
+	"address":"http://www.gome.com.cn/"
+},{
+	"id":7,
+	"name":"唯品会",
+	"address":"http://www.vip.com/"
+},{
+	"id":8,
+	"name":"亚马逊",
+	"address":"https://www.amazon.cn/"
+},{
+	"id":9,
+	"name":"1号店",
+	"address":"http://www.yhd.com/"
+},{
+	"id":10,
+	"name":"蘑菇街",
+	"address":"http://www.mogujie.com/"
+},]
