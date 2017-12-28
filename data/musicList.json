@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "title": "我们不一样",
+    "artist": "大壮",
+    "file": "https://last-bai.github.io/static/music/大壮 - 我们不一样.mp3",
+    "cover": "https://last-bai.github.io/static/music/wmbyy.jpg"
+  }, {
+    "id": 2,
+    "title": "风继续吹",
+    "artist": "张国荣",
+    "file": "https://last-bai.github.io/static/music/风继续吹.mp3",
+    "cover": "https://last-bai.github.io/static/music/fjxc.jpg"
+  }, {
+    "id": 3,
+   " title": "远走高飞",
+    "artist": "金志文",
+    "file": "https://last-bai.github.io/static/music/金志文、徐佳莹 - 远走高飞.mp3",
+    "cover": "https://last-bai.github.io/static/music/yzgf.jpg"
+  }, {
+    "id": 4,
+    "title": "九张机",
+    "artist": "叶炫清",
+    "file": "https://last-bai.github.io/static/music/叶炫清 - 九张机.mp3",
+    "cover": "https://last-bai.github.io/static/music/jiuzj.jpg"
+  }, {
+    "id": 5,
+    "title": "成都",
+    "artist": "赵雷",
+    "file": "https://last-bai.github.io/static/music/成都.mp3",
+    "cover": "https://last-bai.github.io/static/music/chengdu.jpg"
+  }, {
+    "id": 6,
+    "title": "平凡之路",
+    "artist": "朴树",
+    "file": "https://last-bai.github.io/static/music/朴树 - 平凡之路.mp3",
+    "cover": "https://last-bai.github.io/static/music/pfzl.jpg"
+  }, {
+    "id": 7,
+    "title": "追光者",
+   " artist": "岑宁儿",
+    "file": "https://last-bai.github.io/static/music/岑宁儿 - 追光者.mp3",
+    "cover": "https://last-bai.github.io/static/music/zhuigz.jpg"
+  }, {
+    "id": 8,
+    "title": "过客",
+   "artist": "阿涵",
+    "file": "https://last-bai.github.io/static/music/阿涵 - 过客.mp3",
+    "cover": "https://last-bai.github.io/static/music/guoke.jpg"
+  }, {
+    "id": 9,
+    "title": "爱多一次痛多一次",
+    "artist": "谭咏麟",
+    "file": "https://last-bai.github.io/static/music/谭咏麟 - 爱多一次痛多一次.mp3",
+    "cover": "https://last-bai.github.io/static/music/adyctdyc.jpg"
+  }, {
+    "id": 10,
+    "title": "演员",
+    "artist": "薛之谦",
+    "file": "https://last-bai.github.io/static/music/薛之谦 - 演员.mp3",
+    "cover": "https://last-bai.github.io/static/music/yanyuan.jpg"
+  }
+
+]
