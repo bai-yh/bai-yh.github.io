@@ -58,35 +58,112 @@
   "id": 9,
   "name": "人工智能",
   "time": "2001",
-  "director": "史蒂文-斯皮尔伯格",
+  "director": "史蒂文·斯皮尔伯格",
   "src": "https://last-bai.github.io/data/iron-man.mp4",
   "post": "https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=c7913e0c0df3d7ca18fb37249376d56c/cdbf6c81800a19d8e38dfd3732fa828ba61e4671.jpg"
 }, {
   "id": 10,
   "name": "林肯",
   "time": "2012",
-  "director": "史蒂文-斯皮尔伯格",
+  "director": "史蒂文·斯皮尔伯格",
   "src": "https://last-bai.github.io/data/iron-man.mp4",
   "post": "https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=f69f2ac3a918972bb737089887a410ec/6a600c338744ebf83cc572e8dbf9d72a6159a7b4.jpg"
 }, {
   "id": 11,
   "name": "拯救大兵瑞恩",
   "time": "1998",
-  "director": "史蒂文-斯皮尔伯格",
+  "director": "史蒂文·斯皮尔伯格",
   "src": "https://last-bai.github.io/data/iron-man.mp4",
   "post": "https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike220%2C5%2C5%2C220%2C73/sign=d833ae5c5466d0166a14967af642bf62/eac4b74543a982262e1406b68c82b9014b90eb4e.jpg"
 }, {
   "id": 12,
   "name": "辛德勒的名单",
   "time": "1993",
-  "director": "史蒂文-斯皮尔伯格",
+  "director": "史蒂文·斯皮尔伯格",
   "src": "https://last-bai.github.io/data/iron-man.mp4",
   "post": "https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=cc91bc60e924b899ca31716a0f6f76f0/9a504fc2d56285350174444190ef76c6a7ef633e.jpg"
 }, {
   "id": 13,
   "name": "侏罗纪公园",
   "time": "1993",
-  "director": "史蒂文-斯皮尔伯格",
+  "director": "史蒂文·斯皮尔伯格",
   "src": "https://last-bai.github.io/data/iron-man.mp4",
   "post": "https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike180%2C5%2C5%2C180%2C60/sign=50b8e76f512c11dfcadcb771024e09b5/8644ebf81a4c510feb98c2966659252dd52aa5d9.jpg"
+}, {
+  "id": 14,
+  "name": "圆梦巨人",
+  "time": "2016",
+  "director": "史蒂文·斯皮尔伯格",
+  "src": "https://last-bai.github.io/data/iron-man.mp4",
+  "post": "http://image11.m1905.cn/mdb/uploadfile/2016/1008/thumb_1_210_279_20161008014800533360.jpg"
+}, {
+  "id": 15,
+  "name": "间谍之桥",
+  "time": "2015",
+  "director": "史蒂文·斯皮尔伯格",
+  "src": "https://last-bai.github.io/data/iron-man.mp4",
+  "post": "http://image11.m1905.cn/mdb/uploadfile/2015/0727/thumb_1_210_279_20150727042833116559.jpg"
+}, {
+  "id": 16,
+  "name": "传世",
+  "time": "2014",
+  "director": "史蒂文·斯皮尔伯格",
+  "src": "https://last-bai.github.io/data/iron-man.mp4",
+  "post": "http://image11.m1905.cn/uploadfile/2014/0522/thumb_1_210_279_20140522102818222236.jpg"
+}, {
+  "id": 17,
+  "name": "夺宝奇兵5",
+  "time": "2013",
+  "director": "史蒂文·斯皮尔伯格",
+  "src": "https://last-bai.github.io/data/iron-man.mp4",
+  "post": "http://image11.m1905.cn/mdb/uploadfile/2015/1124/thumb_1_210_279_20151124040726268332.jpg"
+}, {
+  "id": 18,
+  "name": "战马",
+  "time": "2011",
+  "director": "史蒂文·斯皮尔伯格",
+  "src": "https://last-bai.github.io/data/iron-man.mp4",
+  "post": "http://image11.m1905.cn/uploadfile/2012/1101/thumb_1_210_279_20121101031402681.jpg"
+}, {
+  "id": 19,
+  "name": "丁丁历险记",
+  "time": "2011",
+  "director": "史蒂文·斯皮尔伯格",
+  "src": "https://last-bai.github.io/data/iron-man.mp4",
+  "post": "http://image11.m1905.cn/uploadfile/2013/0911/thumb_1_210_279_20130911025327406.jpg"
+}, {
+  "id": 20,
+  "name": "夺宝奇兵4",
+  "time": "2008",
+  "director": "史蒂文·斯皮尔伯格",
+  "src": "https://last-bai.github.io/data/iron-man.mp4",
+  "post": "http://image11.m1905.cn/uploadfile/2012/0917/thumb_1_210_279_20120917054550864.jpg"
+}, {
+  "id": 21,
+  "name": "世界之战",
+  "time": "2006",
+  "director": "史蒂文·斯皮尔伯格",
+  "src": "https://last-bai.github.io/data/iron-man.mp4",
+  "post": "http://image11.m1905.cn/uploadfile/2012/1101/thumb_1_210_279_20121101032013712.jpg"
+}, {
+  "id": 22,
+  "name": "幸福终点站",
+  "time": "2004",
+  "director": "史蒂文·斯皮尔伯格",
+  "src": "https://last-bai.github.io/data/iron-man.mp4",
+  "post": "http://image11.m1905.cn/uploadfile/2012/1211/thumb_1_210_279_20121211114825970.jpg"
+}, {
+  "id": 23,
+  "name": "猫鼠游戏",
+  "time": "2002",
+  "director": "史蒂文·斯皮尔伯格",
+  "src": "https://last-bai.github.io/data/iron-man.mp4",
+  "post": "http://image11.m1905.cn/uploadfile/2013/0516/thumb_1_210_279_20130516034917486.jpg"
+}, {
+  "id": 24,
+  "name": "少数派报告",
+  "time": "2002",
+  "director": "史蒂文·斯皮尔伯格",
+  "src": "https://last-bai.github.io/data/iron-man.mp4",
+  "post": "http://image11.m1905.cn/uploadfile/2012/1101/thumb_1_210_279_20121101032550597.jpg"
 }]
