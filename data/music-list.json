@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "title": "体面",
+    "artist": "于文文",
+    "source": "https://last-bai.github.io/static/songs/体面-于文文.mp3",
+    "cover": "https://last-bai.github.io/static/songs/poster/timian.jpg"
+  },{
+    "id": 2,
+    "title": "追光者",
+    "artist": "岑宁儿",
+    "source": "https://last-bai.github.io/static/songs/岑宁儿 - 追光者.mp3",
+    "cover": "https://last-bai.github.io/static/songs/poster/zhuiguangzhe.jpg"
+  },{
+    "id": 3,
+    "title": "童话镇",
+    "artist": "陈一发儿",
+    "source": "https://last-bai.github.io/static/songs/陈一发儿 - 童话镇.mp3",
+    "cover": "https://last-bai.github.io/static/songs/poster/tonghuazhen.jpg"
+  },{
+    "id": 4,
+    "title": "三十出头",
+    "artist": "大哲",
+    "source": "https://last-bai.github.io/static/songs/大哲 - 三十出头.mp3",
+    "cover": "https://last-bai.github.io/static/songs/poster/sanshichutou.jpg"
+  },{
+    "id": 5,
+    "title": "我们不一样",
+    "artist": "大壮",
+    "source": "https://last-bai.github.io/static/songs/大壮 - 我们不一样.mp3",
+    "cover": "https://last-bai.github.io/static/songs/poster/womenbuyiyang.jpg"
+  },{
+    "id": 6,
+    "title": "再见前任",
+    "artist": "冯提莫",
+    "source": "https://last-bai.github.io/static/songs/冯提莫 - 再见前任.mp3",
+    "cover": "https://last-bai.github.io/static/songs/poster/zaijianqianren.jpg"
+  },{
+    "id": 7,
+    "title": "广东爱情故事",
+    "artist": "广东雨神",
+    "source": "https://last-bai.github.io/static/songs/广东雨神 - 广东爱情故事.mp3",
+    "cover": "https://last-bai.github.io/static/songs/poster/guangdongaiqinggushi.jpg"
+  },{
+    "id": 8,
+    "title": "红尘情歌",
+    "artist": "黑鸭子、高安",
+    "source": "https://last-bai.github.io/static/songs/黑鸭子、高安 - 红尘情歌.mp3",
+    "cover": "https://last-bai.github.io/static/songs/poster/hongchenqingge.jpg"
+  },{
+    "id": 9,
+    "title": "刚好遇见你",
+    "artist": "李玉刚",
+    "source": "https://last-bai.github.io/static/songs/李玉刚 - 刚好遇见你.mp3",
+    "cover": "https://last-bai.github.io/static/songs/poster/ganghaoyujianni.jpg"
+  },{
+    "id": 10,
+    "title": "醉赤壁",
+    "artist": "林俊杰",
+    "source": "https://last-bai.github.io/static/songs/林俊杰 - 醉赤壁.mp3",
+    "cover": "https://last-bai.github.io/static/songs/poster/zuichibi.jpg"
+  },{
+    "id": 11,
+    "title": "一晃就老了",
+    "artist": "秋裤大叔",
+    "source": "https://last-bai.github.io/static/songs/秋裤大叔 - 一晃就老了.mp3",
+    "cover": "https://last-bai.github.io/static/songs/poster/yihuangjiulaole.jpg"
+  },{
+    "id": 12,
+    "title": "勉为其难",
+    "artist": "王冕",
+    "source": "https://last-bai.github.io/static/songs/王冕 - 勉为其难.mp3",
+    "cover": "https://last-bai.github.io/static/songs/poster/mianweiqinan.jpg"
+  },{
+    "id": 13,
+    "title": "带你去旅行",
+    "artist": "校长",
+    "source": "https://last-bai.github.io/static/songs/校长 - 带你去旅行.mp3",
+    "cover": "https://last-bai.github.io/static/songs/poster/dainiqulvxing.jpg"
+  },{
+    "id": 14,
+    "title": "拥抱你离去",
+    "artist": "张北北",
+    "source": "https://last-bai.github.io/static/songs/张北北 - 拥抱你离去.mp3",
+    "cover": "https://last-bai.github.io/static/songs/poster/yongbaoniliqu.jpg"
+  },{
+    "id": 15,
+    "title": "回忆总想哭",
+    "artist": "姜玉阳、南宫嘉骏",
+    "source": "https://last-bai.github.io/static/songs/姜玉阳、南宫嘉骏 - 回忆总想哭.mp3",
+    "cover": "https://last-bai.github.io/static/songs/poster/huiyizongxiangku.jpg"
+  }
+
+]
