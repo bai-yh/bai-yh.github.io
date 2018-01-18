@@ -1,6 +1,8 @@
 {
-  "main.js": "static/js/main.8eeae3e8.js",
-  "main.js.map": "static/js/main.8eeae3e8.js.map",
+  "main.css": "static/css/main.bf47ef03.css",
+  "main.css.map": "static/css/main.bf47ef03.css.map",
+  "main.js": "static/js/main.606f5e36.js",
+  "main.js.map": "static/js/main.606f5e36.js.map",
   "static\\media\\01.jpg": "static/media/01.4335caa1.jpg",
   "static\\media\\02.jpg": "static/media/02.b65ce864.jpg",
   "static\\media\\03.jpg": "static/media/03.e3b658dd.jpg",
@@ -13,13 +15,17 @@
   "static\\media\\10.jpg": "static/media/10.46d08936.jpg",
   "static\\media\\11.jpg": "static/media/11.9e4a3fec.jpg",
   "static\\media\\about-bg.jpg": "static/media/about-bg.5e8dc355.jpg",
-  "static\\media\\blogease.png": "static/media/blogease.10b63389.png",
-  "static\\media\\iron-man.mp4": "static/media/iron-man.477e9b89.mp4",
+  "static\\media\\flags.png": "static/media/flags.9c74e172.png",
+  "static\\media\\icons.eot": "static/media/icons.674f50d2.eot",
+  "static\\media\\icons.svg": "static/media/icons.912ec66d.svg",
+  "static\\media\\icons.ttf": "static/media/icons.b06871f2.ttf",
+  "static\\media\\icons.woff": "static/media/icons.fee66e71.woff",
+  "static\\media\\icons.woff2": "static/media/icons.af7ae505.woff2",
   "static\\media\\left.jpg": "static/media/left.9b4f3115.jpg",
+  "static\\media\\logo.svg": "static/media/logo.5d5d9eef.svg",
   "static\\media\\right.jpg": "static/media/right.8e07301c.jpg",
   "static\\media\\turn-arrow.eot": "static/media/turn-arrow.583ca888.eot",
   "static\\media\\turn-arrow.svg": "static/media/turn-arrow.e33d265f.svg",
   "static\\media\\turn-arrow.ttf": "static/media/turn-arrow.bad2eaf2.ttf",
-  "static\\media\\turn-arrow.woff": "static/media/turn-arrow.860e608e.woff",
-  "static\\media\\video-react.eot": "static/media/video-react.c48164aa.eot"
+  "static\\media\\turn-arrow.woff": "static/media/turn-arrow.860e608e.woff"
 }
